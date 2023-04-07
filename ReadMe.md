@@ -1,5 +1,3 @@
-[SumatraPDF-Plus: Extended version of popular SumatraPDF](https://github.com/Krot66/SumatraPDF-Plus)
-
 [SumatraPDF Plus (forum.ru-board.com)](http://forum.ru-board.com/topic.cgi?forum=5&topic=50129#1)
 
 **SumatraPDF Plus**
